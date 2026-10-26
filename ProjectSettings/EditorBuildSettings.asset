@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/Soccer1v1.unity
     guid: 8b9defec5acb50d44b91be5ed7666159
+  - enabled: 1
+    path: Assets/_Project/Scenes/DodgeBall.unity
+    guid: 4d1b70afcbeae1442b4db5c60af60f11
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
